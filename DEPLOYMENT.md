@@ -19,7 +19,7 @@
 - 每次打 tag 发布时，GitHub Actions 会自动用 `cargo doc` 生成文档，并部署到 `gh-pages` 分支。
 - 你只需在仓库 Settings → Pages 选择 `gh-pages` 分支和 `/ (root)` 目录。
 - 文档地址一般为：
-  https://wangggym.github.io/aipr/
+  https://yiminlab.github.io/aipr/
 
 ## 3. CI 检查内容
 
